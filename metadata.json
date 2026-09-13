@@ -1,0 +1,6 @@
+{
+  "name": "Agendamentos",
+  "description": "Gestão e Calendário de Agendamentos Profissionais offline-first para autônomos, consultórios, barbearias e clínicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
